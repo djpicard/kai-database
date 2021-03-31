@@ -1,10 +1,10 @@
 {
     "name": "Kai Database",
     "description": "Database for kai breeders",
-    "repository": "https://github.com/emk/rust-buildpack-example-rocket",
+    "repository": "https://github.com/djpicard/kai-database",
     "success_url": "/",
     "keywords": ["rust", "rocket"],
-    "website": "https://github.com/emk/rust-buildpack-example-rocket",
+    "website": "https://github.com/djpicard/kai-database",
     "env": {
       "BUILDPACK_URL": "https://github.com/emk/heroku-buildpack-rust.git"
     }
